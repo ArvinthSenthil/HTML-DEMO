@@ -1,0 +1,10 @@
+let first name = "john";
+let second name = "doe";
+let martial status = "single";
+let country = "india";
+let age = "25";
+console.log(first name);
+console.log(second name);
+console.log(martial status);
+console.log(country);
+console.log(age);

@@ -1,0 +1,25 @@
+body{
+    background-color: lightgrey;
+  }
+  
+  .fa{
+    color: rgb(33, 140, 245)
+  }
+  a{
+    text-decoration: underline;
+    color:rgb(57, 57, 155);
+  }
+  .box-part{
+    background-color: white;
+    text-align: center;
+   margin: 20px 0px;
+  padding: 60px 0px;
+  }
+  p{
+    margin: 20px 0px;
+  }
+  
+  .box{
+    padding: 60px 0px;
+  }
+  
